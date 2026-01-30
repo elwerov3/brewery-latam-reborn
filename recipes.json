@@ -1,0 +1,3932 @@
+{
+  "conserva_pampero": {
+    "name": "Conserva Pampero",
+    "ingredients": [],
+    "cookingtime": 11,
+    "distillruns": 3,
+    "wood": "Manglar",
+    "age": 21,
+    "difficulty": 3,
+    "alcohol": 49
+  },
+  "ron_oscuro_caribeno": {
+    "name": "Ron Oscuro Caribeno",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 4,
+    "wood": "Jungla",
+    "age": 43,
+    "difficulty": 6,
+    "alcohol": 72
+  },
+  "aguardiente_llanero": {
+    "name": "Aguardiente Llanero",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 10,
+    "wood": "Jungla",
+    "age": 95,
+    "difficulty": 8,
+    "alcohol": 86
+  },
+  "licor_cacao_andino": {
+    "name": "Licor Cacao Andino",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 52,
+    "difficulty": 9,
+    "alcohol": 86
+  },
+  "destilado_cana_negra": {
+    "name": "Destilado Cana Negra",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 9,
+    "wood": "Jungla",
+    "age": 70,
+    "difficulty": 10,
+    "alcohol": 97
+  },
+  "bebida_ancestral_guayana": {
+    "name": "Bebida Ancestral Guayana",
+    "ingredients": [],
+    "cookingtime": 13,
+    "distillruns": 2,
+    "wood": "Manglar",
+    "age": 13,
+    "difficulty": 4,
+    "alcohol": 39
+  },
+  "ron_anejo_maracaibo": {
+    "name": "Ron Anejo Maracaibo",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 70,
+    "difficulty": 7,
+    "alcohol": 94
+  },
+  "aguardiente_espiritu_llano": {
+    "name": "Aguardiente Espiritu Llano",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 10,
+    "wood": "Jungla",
+    "age": 94,
+    "difficulty": 9,
+    "alcohol": 97
+  },
+  "licor_tropical_orinoco": {
+    "name": "Licor Tropical Orinoco",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 9,
+    "difficulty": 4,
+    "alcohol": 32
+  },
+  "bebida_fuego_caribeno": {
+    "name": "Bebida Fuego Caribeno",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 9,
+    "wood": "Manglar",
+    "age": 62,
+    "difficulty": 8,
+    "alcohol": 95
+  },
+  "destilado_montana_negra": {
+    "name": "Destilado Montana Negra",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 43,
+    "difficulty": 6,
+    "alcohol": 74
+  },
+  "aguardiente_sabor_tierra": {
+    "name": "Aguardiente Sabor Tierra",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Acacia",
+    "age": 8,
+    "difficulty": 1,
+    "alcohol": 27
+  },
+  "ron_misterio_caribeno": {
+    "name": "Ron Misterio Caribeno",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Manglar",
+    "age": 3,
+    "difficulty": 1,
+    "alcohol": 27
+  },
+  "licor_bosque_humedo": {
+    "name": "Licor Bosque Humedo",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 8,
+    "wood": "Acacia",
+    "age": 69,
+    "difficulty": 8,
+    "alcohol": 89
+  },
+  "bebida_espiritu_llanero": {
+    "name": "Bebida Espiritu Llanero",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 8,
+    "wood": "Abedul",
+    "age": 67,
+    "difficulty": 7,
+    "alcohol": 88
+  },
+  "destilado_rio_profundo": {
+    "name": "Destilado Rio Profundo",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 71,
+    "difficulty": 7,
+    "alcohol": 98
+  },
+  "aguardiente_noche_oscura": {
+    "name": "Aguardiente Noche Oscura",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 2,
+    "wood": "Abedul",
+    "age": 6,
+    "difficulty": 1,
+    "alcohol": 23
+  },
+  "ron_secreto_ancestral": {
+    "name": "Ron Secreto Ancestral",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 31,
+    "difficulty": 5,
+    "alcohol": 82
+  },
+  "licor_selva_profunda": {
+    "name": "Licor Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 6,
+    "wood": "Cerezo",
+    "age": 28,
+    "difficulty": 5,
+    "alcohol": 82
+  },
+  "bebida_fuego_nocturno": {
+    "name": "Bebida Fuego Nocturno",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Manglar",
+    "age": 6,
+    "difficulty": 2,
+    "alcohol": 23
+  },
+  "destilado_alma_caribena": {
+    "name": "Destilado Alma Caribena",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 6,
+    "difficulty": 1,
+    "alcohol": 23
+  },
+  "aguardiente_corazon_llanero": {
+    "name": "Aguardiente Corazon Llanero",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 1,
+    "wood": "Roble Oscuro",
+    "age": 3,
+    "difficulty": 1,
+    "alcohol": 17
+  },
+  "ron_espiritu_salvaje": {
+    "name": "Ron Espiritu Salvaje",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 83,
+    "difficulty": 8,
+    "alcohol": 94
+  },
+  "licor_magia_negra": {
+    "name": "Licor Magia Negra",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 2,
+    "wood": "Manglar",
+    "age": 22,
+    "difficulty": 3,
+    "alcohol": 55
+  },
+  "bebida_poder_ancestral": {
+    "name": "Bebida Poder Ancestral",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 5,
+    "wood": "Cerezo",
+    "age": 35,
+    "difficulty": 5,
+    "alcohol": 62
+  },
+  "destilado_esencia_caribena": {
+    "name": "Destilado Esencia Caribena",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Manglar",
+    "age": 7,
+    "difficulty": 2,
+    "alcohol": 28
+  },
+  "aguardiente_fuerza_tierra": {
+    "name": "Aguardiente Fuerza Tierra",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 95,
+    "difficulty": 10,
+    "alcohol": 86
+  },
+  "ron_misterio_profundo": {
+    "name": "Ron Misterio Profundo",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "Pícea",
+    "age": 7,
+    "difficulty": 2,
+    "alcohol": 26
+  },
+  "licor_sombra_llanera": {
+    "name": "Licor Sombra Llanera",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 5,
+    "wood": "Cerezo",
+    "age": 45,
+    "difficulty": 5,
+    "alcohol": 73
+  },
+  "bebida_fuego_eterno": {
+    "name": "Bebida Fuego Eterno",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 96,
+    "difficulty": 8,
+    "alcohol": 89
+  },
+  "destilado_poder_orinoco": {
+    "name": "Destilado Poder Orinoco",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 9,
+    "wood": "Pícea",
+    "age": 50,
+    "difficulty": 10,
+    "alcohol": 99
+  },
+  "aguardiente_noche_eterna": {
+    "name": "Aguardiente Noche Eterna",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 3,
+    "wood": "Cerezo",
+    "age": 20,
+    "difficulty": 4,
+    "alcohol": 56
+  },
+  "ron_magia_caribena": {
+    "name": "Ron Magia Caribena",
+    "ingredients": [],
+    "cookingtime": 17,
+    "distillruns": 5,
+    "wood": "Manglar",
+    "age": 43,
+    "difficulty": 5,
+    "alcohol": 73
+  },
+  "licor_espiritu_selva": {
+    "name": "Licor Espiritu Selva",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 79,
+    "difficulty": 9,
+    "alcohol": 96
+  },
+  "bebida_alma_llanera": {
+    "name": "Bebida Alma Llanera",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 100,
+    "difficulty": 8,
+    "alcohol": 89
+  },
+  "destilado_fuego_ancestral": {
+    "name": "Destilado Fuego Ancestral",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 34,
+    "difficulty": 5,
+    "alcohol": 67
+  },
+  "aguardiente_secreto_tierra": {
+    "name": "Aguardiente Secreto Tierra",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 9,
+    "wood": "Cerezo",
+    "age": 83,
+    "difficulty": 7,
+    "alcohol": 87
+  },
+  "ron_poder_nocturno": {
+    "name": "Ron Poder Nocturno",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 4,
+    "wood": "Manglar",
+    "age": 19,
+    "difficulty": 3,
+    "alcohol": 45
+  },
+  "licor_misterio_profundo": {
+    "name": "Licor Misterio Profundo",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 78,
+    "difficulty": 8,
+    "alcohol": 87
+  },
+  "bebida_corazon_caribeno": {
+    "name": "Bebida Corazon Caribeno",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 87,
+    "difficulty": 8,
+    "alcohol": 93
+  },
+  "destilado_sombra_llanera": {
+    "name": "Destilado Sombra Llanera",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 82,
+    "difficulty": 8,
+    "alcohol": 88
+  },
+  "aguardiente_magia_tierra": {
+    "name": "Aguardiente Magia Tierra",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Cerezo",
+    "age": 45,
+    "difficulty": 5,
+    "alcohol": 72
+  },
+  "ron_fuego_ancestral": {
+    "name": "Ron Fuego Ancestral",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 5,
+    "wood": "Pícea",
+    "age": 45,
+    "difficulty": 5,
+    "alcohol": 69
+  },
+  "licor_noche_profunda": {
+    "name": "Licor Noche Profunda",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 67,
+    "difficulty": 10,
+    "alcohol": 91
+  },
+  "bebida_espiritu_caribena": {
+    "name": "Bebida Espiritu Caribena",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 6,
+    "wood": "Pícea",
+    "age": 86,
+    "difficulty": 8,
+    "alcohol": 96
+  },
+  "destilado_corazon_llanero": {
+    "name": "Destilado Corazon Llanero",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Manglar",
+    "age": 57,
+    "difficulty": 9,
+    "alcohol": 93
+  },
+  "aguardiente_noche_profunda": {
+    "name": "Aguardiente Noche Profunda",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 35,
+    "difficulty": 6,
+    "alcohol": 66
+  },
+  "ron_alma_caribena": {
+    "name": "Ron Alma Caribena",
+    "ingredients": [],
+    "cookingtime": 11,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 18,
+    "difficulty": 4,
+    "alcohol": 53
+  },
+  "tequila_amanecer_desierto": {
+    "name": "Tequila Amanecer Desierto",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 21,
+    "difficulty": 3,
+    "alcohol": 49
+  },
+  "mezcal_humo_ancestral": {
+    "name": "Mezcal Humo Ancestral",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 0,
+    "wood": "Manglar",
+    "age": 6,
+    "difficulty": 2,
+    "alcohol": 28
+  },
+  "pulque_antiguo_azteca": {
+    "name": "Pulque Antiguo Azteca",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 9,
+    "wood": "Jungla",
+    "age": 53,
+    "difficulty": 8,
+    "alcohol": 95
+  },
+  "destilado_fuego_volcanico": {
+    "name": "Destilado Fuego Volcanico",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 3,
+    "wood": "Jungla",
+    "age": 15,
+    "difficulty": 4,
+    "alcohol": 56
+  },
+  "aguardiente_espiritu_serpiente": {
+    "name": "Aguardiente Espiritu Serpiente",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 99,
+    "difficulty": 7,
+    "alcohol": 98
+  },
+  "licor_magia_prehispanica": {
+    "name": "Licor Magia Prehispanica",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 17,
+    "difficulty": 3,
+    "alcohol": 46
+  },
+  "tequila_noche_negra": {
+    "name": "Tequila Noche Negra",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 97,
+    "difficulty": 10,
+    "alcohol": 88
+  },
+  "mezcal_alma_chaman": {
+    "name": "Mezcal Alma Chaman",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 54,
+    "difficulty": 9,
+    "alcohol": 85
+  },
+  "pulque_poder_divino": {
+    "name": "Pulque Poder Divino",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 72,
+    "difficulty": 10,
+    "alcohol": 99
+  },
+  "destilado_corazon_jaguar": {
+    "name": "Destilado Corazon Jaguar",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 35,
+    "difficulty": 6,
+    "alcohol": 63
+  },
+  "aguardiente_fuego_sagrado": {
+    "name": "Aguardiente Fuego Sagrado",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Acacia",
+    "age": 5,
+    "difficulty": 1,
+    "alcohol": 18
+  },
+  "licor_espiritu_azteca": {
+    "name": "Licor Espiritu Azteca",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 37,
+    "difficulty": 6,
+    "alcohol": 63
+  },
+  "tequila_sombra_desierto": {
+    "name": "Tequila Sombra Desierto",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 7,
+    "wood": "Manglar",
+    "age": 60,
+    "difficulty": 9,
+    "alcohol": 86
+  },
+  "mezcal_misterio_nocturno": {
+    "name": "Mezcal Misterio Nocturno",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 62,
+    "difficulty": 7,
+    "alcohol": 94
+  },
+  "pulque_fuerza_ancestral": {
+    "name": "Pulque Fuerza Ancestral",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 7,
+    "wood": "Manglar",
+    "age": 71,
+    "difficulty": 10,
+    "alcohol": 98
+  },
+  "destilado_magia_volcanica": {
+    "name": "Destilado Magia Volcanica",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 17,
+    "difficulty": 4,
+    "alcohol": 30
+  },
+  "aguardiente_poder_serpiente": {
+    "name": "Aguardiente Poder Serpiente",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Cerezo",
+    "age": 6,
+    "difficulty": 1,
+    "alcohol": 29
+  },
+  "licor_alma_prehispanica": {
+    "name": "Licor Alma Prehispanica",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 79,
+    "difficulty": 8,
+    "alcohol": 99
+  },
+  "tequila_fuego_eterno": {
+    "name": "Tequila Fuego Eterno",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 3,
+    "wood": "Abedul",
+    "age": 14,
+    "difficulty": 4,
+    "alcohol": 39
+  },
+  "mezcal_espiritu_chaman": {
+    "name": "Mezcal Espiritu Chaman",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 2,
+    "wood": "Abedul",
+    "age": 2,
+    "difficulty": 2,
+    "alcohol": 16
+  },
+  "pulque_secreto_divino": {
+    "name": "Pulque Secreto Divino",
+    "ingredients": [],
+    "cookingtime": 17,
+    "distillruns": 6,
+    "wood": "Jungla",
+    "age": 31,
+    "difficulty": 5,
+    "alcohol": 67
+  },
+  "destilado_noche_jaguar": {
+    "name": "Destilado Noche Jaguar",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 8,
+    "wood": "Pícea",
+    "age": 55,
+    "difficulty": 7,
+    "alcohol": 98
+  },
+  "aguardiente_alma_sagrada": {
+    "name": "Aguardiente Alma Sagrada",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 9,
+    "wood": "Cerezo",
+    "age": 61,
+    "difficulty": 7,
+    "alcohol": 94
+  },
+  "licor_corazon_azteca": {
+    "name": "Licor Corazon Azteca",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 7,
+    "wood": "Abedul",
+    "age": 66,
+    "difficulty": 9,
+    "alcohol": 89
+  },
+  "tequila_misterio_desierto": {
+    "name": "Tequila Misterio Desierto",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 34,
+    "difficulty": 6,
+    "alcohol": 72
+  },
+  "mezcal_poder_nocturno": {
+    "name": "Mezcal Poder Nocturno",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 4,
+    "wood": "Jungla",
+    "age": 11,
+    "difficulty": 4,
+    "alcohol": 46
+  },
+  "pulque_magia_ancestral": {
+    "name": "Pulque Magia Ancestral",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 82,
+    "difficulty": 10,
+    "alcohol": 93
+  },
+  "destilado_espiritu_volcanico": {
+    "name": "Destilado Espiritu Volcanico",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 10,
+    "wood": "Acacia",
+    "age": 64,
+    "difficulty": 8,
+    "alcohol": 89
+  },
+  "aguardiente_fuego_serpiente": {
+    "name": "Aguardiente Fuego Serpiente",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 5,
+    "wood": "Pícea",
+    "age": 36,
+    "difficulty": 5,
+    "alcohol": 67
+  },
+  "licor_sombra_prehispanica": {
+    "name": "Licor Sombra Prehispanica",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "Abedul",
+    "age": 5,
+    "difficulty": 2,
+    "alcohol": 15
+  },
+  "tequila_alma_desierto": {
+    "name": "Tequila Alma Desierto",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 2,
+    "wood": "Pícea",
+    "age": 4,
+    "difficulty": 2,
+    "alcohol": 22
+  },
+  "mezcal_fuego_chaman": {
+    "name": "Mezcal Fuego Chaman",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 23,
+    "difficulty": 4,
+    "alcohol": 56
+  },
+  "pulque_espiritu_divino": {
+    "name": "Pulque Espiritu Divino",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 6,
+    "wood": "Cerezo",
+    "age": 68,
+    "difficulty": 9,
+    "alcohol": 100
+  },
+  "destilado_poder_jaguar": {
+    "name": "Destilado Poder Jaguar",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 4,
+    "wood": "Acacia",
+    "age": 16,
+    "difficulty": 4,
+    "alcohol": 41
+  },
+  "aguardiente_misterio_sagrada": {
+    "name": "Aguardiente Misterio Sagrada",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 8,
+    "wood": "Pícea",
+    "age": 60,
+    "difficulty": 8,
+    "alcohol": 100
+  },
+  "licor_noche_azteca": {
+    "name": "Licor Noche Azteca",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 4,
+    "wood": "Acacia",
+    "age": 20,
+    "difficulty": 3,
+    "alcohol": 37
+  },
+  "tequila_corazon_desierto": {
+    "name": "Tequila Corazon Desierto",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 70,
+    "difficulty": 8,
+    "alcohol": 94
+  },
+  "mezcal_sombra_nocturna": {
+    "name": "Mezcal Sombra Nocturna",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 19,
+    "difficulty": 4,
+    "alcohol": 56
+  },
+  "pulque_alma_ancestral": {
+    "name": "Pulque Alma Ancestral",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 46,
+    "difficulty": 6,
+    "alcohol": 75
+  },
+  "tequila_secreto_desierto": {
+    "name": "Tequila Secreto Desierto",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 5,
+    "wood": "Manglar",
+    "age": 46,
+    "difficulty": 6,
+    "alcohol": 73
+  },
+  "mezcal_noche_chaman": {
+    "name": "Mezcal Noche Chaman",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 5,
+    "wood": "Cerezo",
+    "age": 47,
+    "difficulty": 6,
+    "alcohol": 64
+  },
+  "tequila_poder_desierto": {
+    "name": "Tequila Poder Desierto",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 4,
+    "difficulty": 2,
+    "alcohol": 27
+  },
+  "mezcal_corazon_chaman": {
+    "name": "Mezcal Corazon Chaman",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 69,
+    "difficulty": 8,
+    "alcohol": 99
+  },
+  "pulque_noche_divino": {
+    "name": "Pulque Noche Divino",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 0,
+    "wood": "Jungla",
+    "age": 2,
+    "difficulty": 1,
+    "alcohol": 12
+  },
+  "fernet_espiritu_pampas": {
+    "name": "Fernet Espiritu Pampas",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 9,
+    "wood": "Jungla",
+    "age": 68,
+    "difficulty": 9,
+    "alcohol": 92
+  },
+  "vino_tinto_mendoza_profundo": {
+    "name": "Vino Tinto Mendoza Profundo",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 18,
+    "difficulty": 3,
+    "alcohol": 38
+  },
+  "aguardiente_cordillera_negra": {
+    "name": "Aguardiente Cordillera Negra",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 31,
+    "difficulty": 5,
+    "alcohol": 62
+  },
+  "destilado_gaucho_legendario": {
+    "name": "Destilado Gaucho Legendario",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 2,
+    "wood": "Acacia",
+    "age": 6,
+    "difficulty": 1,
+    "alcohol": 11
+  },
+  "licor_magia_patagonia": {
+    "name": "Licor Magia Patagonia",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 56,
+    "difficulty": 7,
+    "alcohol": 85
+  },
+  "bebida_poder_montana": {
+    "name": "Bebida Poder Montana",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 37,
+    "difficulty": 5,
+    "alcohol": 83
+  },
+  "fernet_noche_buenos_aires": {
+    "name": "Fernet Noche Buenos Aires",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 52,
+    "difficulty": 7,
+    "alcohol": 90
+  },
+  "vino_misterio_andino": {
+    "name": "Vino Misterio Andino",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 91,
+    "difficulty": 8,
+    "alcohol": 91
+  },
+  "aguardiente_fuego_pampas": {
+    "name": "Aguardiente Fuego Pampas",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Manglar",
+    "age": 53,
+    "difficulty": 10,
+    "alcohol": 100
+  },
+  "destilado_alma_gaucho": {
+    "name": "Destilado Alma Gaucho",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 4,
+    "wood": "Jungla",
+    "age": 20,
+    "difficulty": 3,
+    "alcohol": 44
+  },
+  "licor_espiritu_cordillera": {
+    "name": "Licor Espiritu Cordillera",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 5,
+    "wood": "Acacia",
+    "age": 41,
+    "difficulty": 5,
+    "alcohol": 69
+  },
+  "bebida_sombra_patagonia": {
+    "name": "Bebida Sombra Patagonia",
+    "ingredients": [],
+    "cookingtime": 11,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 11,
+    "difficulty": 4,
+    "alcohol": 42
+  },
+  "fernet_secreto_argentino": {
+    "name": "Fernet Secreto Argentino",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Cerezo",
+    "age": 2,
+    "difficulty": 1,
+    "alcohol": 22
+  },
+  "vino_poder_mendoza": {
+    "name": "Vino Poder Mendoza",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 97,
+    "difficulty": 9,
+    "alcohol": 89
+  },
+  "aguardiente_misterio_pampas": {
+    "name": "Aguardiente Misterio Pampas",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 2,
+    "wood": "Abedul",
+    "age": 5,
+    "difficulty": 1,
+    "alcohol": 28
+  },
+  "destilado_corazon_gaucho": {
+    "name": "Destilado Corazon Gaucho",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 3,
+    "wood": "Cerezo",
+    "age": 18,
+    "difficulty": 4,
+    "alcohol": 55
+  },
+  "licor_fuego_andino": {
+    "name": "Licor Fuego Andino",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 50,
+    "difficulty": 10,
+    "alcohol": 100
+  },
+  "bebida_magia_montana": {
+    "name": "Bebida Magia Montana",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Manglar",
+    "age": 28,
+    "difficulty": 5,
+    "alcohol": 78
+  },
+  "fernet_alma_buenos_aires": {
+    "name": "Fernet Alma Buenos Aires",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 10,
+    "wood": "Manglar",
+    "age": 91,
+    "difficulty": 10,
+    "alcohol": 90
+  },
+  "vino_sombra_mendoza": {
+    "name": "Vino Sombra Mendoza",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 9,
+    "wood": "Cerezo",
+    "age": 94,
+    "difficulty": 10,
+    "alcohol": 98
+  },
+  "aguardiente_espiritu_pampas": {
+    "name": "Aguardiente Espiritu Pampas",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 9,
+    "wood": "Manglar",
+    "age": 63,
+    "difficulty": 8,
+    "alcohol": 87
+  },
+  "destilado_noche_gaucho": {
+    "name": "Destilado Noche Gaucho",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Cerezo",
+    "age": 92,
+    "difficulty": 9,
+    "alcohol": 99
+  },
+  "licor_poder_cordillera": {
+    "name": "Licor Poder Cordillera",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 3,
+    "wood": "Jungla",
+    "age": 25,
+    "difficulty": 3,
+    "alcohol": 58
+  },
+  "bebida_misterio_patagonia": {
+    "name": "Bebida Misterio Patagonia",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 9,
+    "wood": "Manglar",
+    "age": 89,
+    "difficulty": 9,
+    "alcohol": 99
+  },
+  "fernet_fuego_argentino": {
+    "name": "Fernet Fuego Argentino",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 53,
+    "difficulty": 8,
+    "alcohol": 92
+  },
+  "vino_corazon_andino": {
+    "name": "Vino Corazon Andino",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 47,
+    "difficulty": 5,
+    "alcohol": 64
+  },
+  "aguardiente_magia_pampas": {
+    "name": "Aguardiente Magia Pampas",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 5,
+    "wood": "Abedul",
+    "age": 28,
+    "difficulty": 6,
+    "alcohol": 82
+  },
+  "destilado_sombra_gaucho": {
+    "name": "Destilado Sombra Gaucho",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 84,
+    "difficulty": 7,
+    "alcohol": 89
+  },
+  "licor_alma_cordillera": {
+    "name": "Licor Alma Cordillera",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 2,
+    "wood": "Manglar",
+    "age": 22,
+    "difficulty": 4,
+    "alcohol": 60
+  },
+  "bebida_fuego_montana": {
+    "name": "Bebida Fuego Montana",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 46,
+    "difficulty": 5,
+    "alcohol": 80
+  },
+  "fernet_poder_buenos_aires": {
+    "name": "Fernet Poder Buenos Aires",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Acacia",
+    "age": 90,
+    "difficulty": 7,
+    "alcohol": 86
+  },
+  "vino_espiritu_mendoza": {
+    "name": "Vino Espiritu Mendoza",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 95,
+    "difficulty": 9,
+    "alcohol": 100
+  },
+  "aguardiente_noche_pampas": {
+    "name": "Aguardiente Noche Pampas",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 4,
+    "wood": "Manglar",
+    "age": 27,
+    "difficulty": 5,
+    "alcohol": 80
+  },
+  "destilado_misterio_gaucho": {
+    "name": "Destilado Misterio Gaucho",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 83,
+    "difficulty": 9,
+    "alcohol": 91
+  },
+  "licor_sombra_andino": {
+    "name": "Licor Sombra Andino",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 83,
+    "difficulty": 9,
+    "alcohol": 95
+  },
+  "bebida_corazon_patagonia": {
+    "name": "Bebida Corazon Patagonia",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 9,
+    "wood": "Abedul",
+    "age": 67,
+    "difficulty": 10,
+    "alcohol": 90
+  },
+  "fernet_corazon_argentino": {
+    "name": "Fernet Corazon Argentino",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 27,
+    "difficulty": 6,
+    "alcohol": 63
+  },
+  "vino_fuego_mendoza": {
+    "name": "Vino Fuego Mendoza",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 2,
+    "wood": "Jungla",
+    "age": 3,
+    "difficulty": 2,
+    "alcohol": 11
+  },
+  "aguardiente_sombra_pampas": {
+    "name": "Aguardiente Sombra Pampas",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 8,
+    "wood": "Manglar",
+    "age": 50,
+    "difficulty": 10,
+    "alcohol": 92
+  },
+  "destilado_espiritu_gaucho": {
+    "name": "Destilado Espiritu Gaucho",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 9,
+    "wood": "Pícea",
+    "age": 59,
+    "difficulty": 7,
+    "alcohol": 97
+  },
+  "licor_noche_cordillera": {
+    "name": "Licor Noche Cordillera",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 68,
+    "difficulty": 9,
+    "alcohol": 91
+  },
+  "bebida_alma_montana": {
+    "name": "Bebida Alma Montana",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Abedul",
+    "age": 56,
+    "difficulty": 9,
+    "alcohol": 87
+  },
+  "fernet_magia_buenos_aires": {
+    "name": "Fernet Magia Buenos Aires",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 24,
+    "difficulty": 4,
+    "alcohol": 37
+  },
+  "vino_noche_andino": {
+    "name": "Vino Noche Andino",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 10,
+    "wood": "Manglar",
+    "age": 70,
+    "difficulty": 7,
+    "alcohol": 98
+  },
+  "destilado_poder_gaucho": {
+    "name": "Destilado Poder Gaucho",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 8,
+    "wood": "Cerezo",
+    "age": 93,
+    "difficulty": 8,
+    "alcohol": 87
+  },
+  "licor_corazon_cordillera": {
+    "name": "Licor Corazon Cordillera",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 3,
+    "wood": "Manglar",
+    "age": 20,
+    "difficulty": 3,
+    "alcohol": 59
+  },
+  "bebida_espiritu_patagonia": {
+    "name": "Bebida Espiritu Patagonia",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 7,
+    "difficulty": 1,
+    "alcohol": 23
+  },
+  "aguardiente_antioquia_fuego": {
+    "name": "Aguardiente Antioquia Fuego",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 5,
+    "wood": "Cerezo",
+    "age": 26,
+    "difficulty": 5,
+    "alcohol": 75
+  },
+  "guaro_espiritu_cafetero": {
+    "name": "Guaro Espiritu Cafetero",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 49,
+    "difficulty": 5,
+    "alcohol": 60
+  },
+  "licor_magia_selva_humeda": {
+    "name": "Licor Magia Selva Humeda",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 10,
+    "wood": "Cerezo",
+    "age": 79,
+    "difficulty": 10,
+    "alcohol": 94
+  },
+  "bebida_poder_cordillera_central": {
+    "name": "Bebida Poder Cordillera Central",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 84,
+    "difficulty": 7,
+    "alcohol": 91
+  },
+  "aguardiente_alma_cafetera": {
+    "name": "Aguardiente Alma Cafetera",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Acacia",
+    "age": 33,
+    "difficulty": 5,
+    "alcohol": 83
+  },
+  "guaro_noche_bogota": {
+    "name": "Guaro Noche Bogota",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 5,
+    "difficulty": 2,
+    "alcohol": 24
+  },
+  "destilado_misterio_andino": {
+    "name": "Destilado Misterio Andino",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 8,
+    "difficulty": 2,
+    "alcohol": 15
+  },
+  "licor_fuego_selva": {
+    "name": "Licor Fuego Selva",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 4,
+    "wood": "Manglar",
+    "age": 30,
+    "difficulty": 6,
+    "alcohol": 67
+  },
+  "bebida_espiritu_montana": {
+    "name": "Bebida Espiritu Montana",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 75,
+    "difficulty": 10,
+    "alcohol": 88
+  },
+  "aguardiente_sombra_antioquia": {
+    "name": "Aguardiente Sombra Antioquia",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 37,
+    "difficulty": 5,
+    "alcohol": 83
+  },
+  "guaro_corazon_cafetero": {
+    "name": "Guaro Corazon Cafetero",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 59,
+    "difficulty": 8,
+    "alcohol": 94
+  },
+  "destilado_magia_cordillera": {
+    "name": "Destilado Magia Cordillera",
+    "ingredients": [],
+    "cookingtime": 17,
+    "distillruns": 4,
+    "wood": "Pícea",
+    "age": 37,
+    "difficulty": 6,
+    "alcohol": 73
+  },
+  "licor_alma_selva_humeda": {
+    "name": "Licor Alma Selva Humeda",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 2,
+    "wood": "Acacia",
+    "age": 22,
+    "difficulty": 3,
+    "alcohol": 41
+  },
+  "bebida_noche_montana": {
+    "name": "Bebida Noche Montana",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 3,
+    "difficulty": 1,
+    "alcohol": 24
+  },
+  "aguardiente_poder_cafetera": {
+    "name": "Aguardiente Poder Cafetera",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 93,
+    "difficulty": 7,
+    "alcohol": 85
+  },
+  "guaro_misterio_bogota": {
+    "name": "Guaro Misterio Bogota",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 9,
+    "wood": "Manglar",
+    "age": 86,
+    "difficulty": 9,
+    "alcohol": 92
+  },
+  "destilado_fuego_andino": {
+    "name": "Destilado Fuego Andino",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Jungla",
+    "age": 59,
+    "difficulty": 10,
+    "alcohol": 98
+  },
+  "bebida_sombra_cordillera_central": {
+    "name": "Bebida Sombra Cordillera Central",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 9,
+    "wood": "Abedul",
+    "age": 83,
+    "difficulty": 10,
+    "alcohol": 97
+  },
+  "aguardiente_corazon_antioquia": {
+    "name": "Aguardiente Corazon Antioquia",
+    "ingredients": [],
+    "cookingtime": 17,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 46,
+    "difficulty": 6,
+    "alcohol": 65
+  },
+  "guaro_magia_cafetero": {
+    "name": "Guaro Magia Cafetero",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Roble Oscuro",
+    "age": 7,
+    "difficulty": 2,
+    "alcohol": 24
+  },
+  "destilado_alma_montana": {
+    "name": "Destilado Alma Montana",
+    "ingredients": [],
+    "cookingtime": 11,
+    "distillruns": 4,
+    "wood": "Acacia",
+    "age": 10,
+    "difficulty": 4,
+    "alcohol": 45
+  },
+  "licor_poder_selva_humeda": {
+    "name": "Licor Poder Selva Humeda",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 8,
+    "wood": "Jungla",
+    "age": 73,
+    "difficulty": 9,
+    "alcohol": 98
+  },
+  "bebida_fuego_andino": {
+    "name": "Bebida Fuego Andino",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 4,
+    "difficulty": 1,
+    "alcohol": 22
+  },
+  "aguardiente_misterio_cafetera": {
+    "name": "Aguardiente Misterio Cafetera",
+    "ingredients": [],
+    "cookingtime": 17,
+    "distillruns": 6,
+    "wood": "Abedul",
+    "age": 50,
+    "difficulty": 6,
+    "alcohol": 79
+  },
+  "guaro_sombra_bogota": {
+    "name": "Guaro Sombra Bogota",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 5,
+    "wood": "Manglar",
+    "age": 33,
+    "difficulty": 5,
+    "alcohol": 65
+  },
+  "destilado_noche_cordillera": {
+    "name": "Destilado Noche Cordillera",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 5,
+    "wood": "Acacia",
+    "age": 38,
+    "difficulty": 5,
+    "alcohol": 66
+  },
+  "licor_corazon_selva": {
+    "name": "Licor Corazon Selva",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 11,
+    "difficulty": 3,
+    "alcohol": 54
+  },
+  "aguardiente_magia_antioquia": {
+    "name": "Aguardiente Magia Antioquia",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 18,
+    "difficulty": 3,
+    "alcohol": 35
+  },
+  "guaro_fuego_cafetero": {
+    "name": "Guaro Fuego Cafetero",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 10,
+    "difficulty": 3,
+    "alcohol": 36
+  },
+  "destilado_poder_andino": {
+    "name": "Destilado Poder Andino",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 7,
+    "wood": "Abedul",
+    "age": 89,
+    "difficulty": 10,
+    "alcohol": 98
+  },
+  "licor_misterio_selva_humeda": {
+    "name": "Licor Misterio Selva Humeda",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 4,
+    "difficulty": 1,
+    "alcohol": 25
+  },
+  "bebida_alma_cordillera_central": {
+    "name": "Bebida Alma Cordillera Central",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 41,
+    "difficulty": 6,
+    "alcohol": 77
+  },
+  "aguardiente_sombra_cafetera": {
+    "name": "Aguardiente Sombra Cafetera",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 6,
+    "wood": "Pícea",
+    "age": 38,
+    "difficulty": 6,
+    "alcohol": 81
+  },
+  "guaro_noche_cafetero": {
+    "name": "Guaro Noche Cafetero",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 42,
+    "difficulty": 6,
+    "alcohol": 60
+  },
+  "destilado_sombra_montana": {
+    "name": "Destilado Sombra Montana",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 10,
+    "wood": "Acacia",
+    "age": 96,
+    "difficulty": 10,
+    "alcohol": 90
+  },
+  "bebida_misterio_andino": {
+    "name": "Bebida Misterio Andino",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 80,
+    "difficulty": 10,
+    "alcohol": 96
+  },
+  "aguardiente_fuego_antioquia": {
+    "name": "Aguardiente Fuego Antioquia",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 10,
+    "wood": "Acacia",
+    "age": 80,
+    "difficulty": 8,
+    "alcohol": 85
+  },
+  "guaro_poder_bogota": {
+    "name": "Guaro Poder Bogota",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 24,
+    "difficulty": 3,
+    "alcohol": 48
+  },
+  "destilado_corazon_cordillera": {
+    "name": "Destilado Corazon Cordillera",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 63,
+    "difficulty": 7,
+    "alcohol": 85
+  },
+  "licor_sombra_selva_humeda": {
+    "name": "Licor Sombra Selva Humeda",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 7,
+    "wood": "Manglar",
+    "age": 50,
+    "difficulty": 7,
+    "alcohol": 96
+  },
+  "bebida_corazon_montana": {
+    "name": "Bebida Corazon Montana",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 50,
+    "difficulty": 8,
+    "alcohol": 88
+  },
+  "pisco_amanecer_andes": {
+    "name": "Pisco Amanecer Andes",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 27,
+    "difficulty": 6,
+    "alcohol": 83
+  },
+  "chicha_espiritu_inca": {
+    "name": "Chicha Espiritu Inca",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 43,
+    "difficulty": 5,
+    "alcohol": 72
+  },
+  "destilado_machu_picchu": {
+    "name": "Destilado Machu Picchu",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 54,
+    "difficulty": 10,
+    "alcohol": 89
+  },
+  "licor_poder_amazonia": {
+    "name": "Licor Poder Amazonia",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 2,
+    "wood": "Manglar",
+    "age": 8,
+    "difficulty": 1,
+    "alcohol": 18
+  },
+  "bebida_magia_cordillera_sagrada": {
+    "name": "Bebida Magia Cordillera Sagrada",
+    "ingredients": [],
+    "cookingtime": 13,
+    "distillruns": 3,
+    "wood": "Jungla",
+    "age": 23,
+    "difficulty": 4,
+    "alcohol": 36
+  },
+  "aguardiente_alma_andina": {
+    "name": "Aguardiente Alma Andina",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 36,
+    "difficulty": 5,
+    "alcohol": 77
+  },
+  "pisco_noche_lima": {
+    "name": "Pisco Noche Lima",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 26,
+    "difficulty": 6,
+    "alcohol": 77
+  },
+  "chicha_misterio_inca": {
+    "name": "Chicha Misterio Inca",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 2,
+    "wood": "Acacia",
+    "age": 3,
+    "difficulty": 1,
+    "alcohol": 21
+  },
+  "destilado_fuego_andes": {
+    "name": "Destilado Fuego Andes",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 2,
+    "wood": "Manglar",
+    "age": 20,
+    "difficulty": 4,
+    "alcohol": 56
+  },
+  "licor_sombra_amazonia": {
+    "name": "Licor Sombra Amazonia",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 0,
+    "wood": "Jungla",
+    "age": 3,
+    "difficulty": 2,
+    "alcohol": 11
+  },
+  "bebida_corazon_cordillera": {
+    "name": "Bebida Corazon Cordillera",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Roble Oscuro",
+    "age": 6,
+    "difficulty": 2,
+    "alcohol": 23
+  },
+  "aguardiente_espiritu_andina": {
+    "name": "Aguardiente Espiritu Andina",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 7,
+    "wood": "Cerezo",
+    "age": 79,
+    "difficulty": 10,
+    "alcohol": 89
+  },
+  "pisco_secreto_peru": {
+    "name": "Pisco Secreto Peru",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 19,
+    "difficulty": 3,
+    "alcohol": 47
+  },
+  "chicha_poder_inca": {
+    "name": "Chicha Poder Inca",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 8,
+    "wood": "Pícea",
+    "age": 63,
+    "difficulty": 7,
+    "alcohol": 93
+  },
+  "destilado_magia_andes": {
+    "name": "Destilado Magia Andes",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 23,
+    "difficulty": 3,
+    "alcohol": 55
+  },
+  "licor_alma_amazonia": {
+    "name": "Licor Alma Amazonia",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 58,
+    "difficulty": 10,
+    "alcohol": 85
+  },
+  "bebida_noche_cordillera_sagrada": {
+    "name": "Bebida Noche Cordillera Sagrada",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Abedul",
+    "age": 29,
+    "difficulty": 5,
+    "alcohol": 80
+  },
+  "aguardiente_fuego_andina": {
+    "name": "Aguardiente Fuego Andina",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 91,
+    "difficulty": 10,
+    "alcohol": 92
+  },
+  "pisco_misterio_lima": {
+    "name": "Pisco Misterio Lima",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 68,
+    "difficulty": 10,
+    "alcohol": 85
+  },
+  "chicha_sombra_inca": {
+    "name": "Chicha Sombra Inca",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 7,
+    "wood": "Acacia",
+    "age": 53,
+    "difficulty": 8,
+    "alcohol": 85
+  },
+  "destilado_espiritu_andes": {
+    "name": "Destilado Espiritu Andes",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 7,
+    "wood": "Jungla",
+    "age": 63,
+    "difficulty": 10,
+    "alcohol": 91
+  },
+  "licor_corazon_amazonia": {
+    "name": "Licor Corazon Amazonia",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 1,
+    "wood": "Manglar",
+    "age": 7,
+    "difficulty": 2,
+    "alcohol": 25
+  },
+  "bebida_magia_cordillera": {
+    "name": "Bebida Magia Cordillera",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 1,
+    "wood": "Manglar",
+    "age": 5,
+    "difficulty": 2,
+    "alcohol": 26
+  },
+  "aguardiente_poder_andina": {
+    "name": "Aguardiente Poder Andina",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 2,
+    "wood": "Acacia",
+    "age": 2,
+    "difficulty": 1,
+    "alcohol": 29
+  },
+  "pisco_fuego_peru": {
+    "name": "Pisco Fuego Peru",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 87,
+    "difficulty": 7,
+    "alcohol": 92
+  },
+  "chicha_alma_inca": {
+    "name": "Chicha Alma Inca",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 9,
+    "wood": "Acacia",
+    "age": 68,
+    "difficulty": 8,
+    "alcohol": 100
+  },
+  "destilado_noche_andes": {
+    "name": "Destilado Noche Andes",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 8,
+    "difficulty": 1,
+    "alcohol": 10
+  },
+  "licor_misterio_amazonia": {
+    "name": "Licor Misterio Amazonia",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 7,
+    "wood": "Manglar",
+    "age": 57,
+    "difficulty": 8,
+    "alcohol": 89
+  },
+  "bebida_sombra_cordillera_sagrada": {
+    "name": "Bebida Sombra Cordillera Sagrada",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 2,
+    "difficulty": 2,
+    "alcohol": 22
+  },
+  "aguardiente_corazon_andina": {
+    "name": "Aguardiente Corazon Andina",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 2,
+    "wood": "Manglar",
+    "age": 10,
+    "difficulty": 4,
+    "alcohol": 39
+  },
+  "pisco_corazon_lima": {
+    "name": "Pisco Corazon Lima",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 2,
+    "wood": "Abedul",
+    "age": 20,
+    "difficulty": 3,
+    "alcohol": 50
+  },
+  "chicha_fuego_inca": {
+    "name": "Chicha Fuego Inca",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 7,
+    "wood": "Cerezo",
+    "age": 100,
+    "difficulty": 7,
+    "alcohol": 93
+  },
+  "destilado_poder_andes": {
+    "name": "Destilado Poder Andes",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 31,
+    "difficulty": 5,
+    "alcohol": 69
+  },
+  "licor_espiritu_amazonia": {
+    "name": "Licor Espiritu Amazonia",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 5,
+    "wood": "Cerezo",
+    "age": 32,
+    "difficulty": 5,
+    "alcohol": 84
+  },
+  "bebida_fuego_cordillera": {
+    "name": "Bebida Fuego Cordillera",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 77,
+    "difficulty": 10,
+    "alcohol": 96
+  },
+  "aguardiente_magia_andina": {
+    "name": "Aguardiente Magia Andina",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 39,
+    "difficulty": 5,
+    "alcohol": 69
+  },
+  "pisco_alma_peru": {
+    "name": "Pisco Alma Peru",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 59,
+    "difficulty": 9,
+    "alcohol": 99
+  },
+  "chicha_noche_inca": {
+    "name": "Chicha Noche Inca",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 22,
+    "difficulty": 3,
+    "alcohol": 52
+  },
+  "destilado_corazon_andes": {
+    "name": "Destilado Corazon Andes",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 87,
+    "difficulty": 10,
+    "alcohol": 93
+  },
+  "licor_fuego_amazonia": {
+    "name": "Licor Fuego Amazonia",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 4,
+    "difficulty": 2,
+    "alcohol": 18
+  },
+  "bebida_poder_cordillera_sagrada": {
+    "name": "Bebida Poder Cordillera Sagrada",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 6,
+    "wood": "Jungla",
+    "age": 61,
+    "difficulty": 7,
+    "alcohol": 93
+  },
+  "aguardiente_sombra_andina": {
+    "name": "Aguardiente Sombra Andina",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 6,
+    "wood": "Cerezo",
+    "age": 99,
+    "difficulty": 9,
+    "alcohol": 98
+  },
+  "pisco_sombra_lima": {
+    "name": "Pisco Sombra Lima",
+    "ingredients": [],
+    "cookingtime": 17,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 28,
+    "difficulty": 5,
+    "alcohol": 76
+  },
+  "chicha_corazon_inca": {
+    "name": "Chicha Corazon Inca",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 10,
+    "wood": "Acacia",
+    "age": 54,
+    "difficulty": 7,
+    "alcohol": 86
+  },
+  "destilado_sombra_andes": {
+    "name": "Destilado Sombra Andes",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 98,
+    "difficulty": 8,
+    "alcohol": 91
+  },
+  "pisco_volcan_atacama": {
+    "name": "Pisco Volcan Atacama",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 73,
+    "difficulty": 7,
+    "alcohol": 88
+  },
+  "vino_sombra_patagonia": {
+    "name": "Vino Sombra Patagonia",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 28,
+    "difficulty": 6,
+    "alcohol": 79
+  },
+  "aguardiente_espiritu_cordillera": {
+    "name": "Aguardiente Espiritu Cordillera",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 69,
+    "difficulty": 9,
+    "alcohol": 91
+  },
+  "destilado_magia_desierto": {
+    "name": "Destilado Magia Desierto",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Cerezo",
+    "age": 5,
+    "difficulty": 1,
+    "alcohol": 26
+  },
+  "licor_poder_andes_chileno": {
+    "name": "Licor Poder Andes Chileno",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 7,
+    "wood": "Cerezo",
+    "age": 98,
+    "difficulty": 10,
+    "alcohol": 92
+  },
+  "bebida_alma_atacama": {
+    "name": "Bebida Alma Atacama",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 89,
+    "difficulty": 10,
+    "alcohol": 96
+  },
+  "pisco_noche_atacama": {
+    "name": "Pisco Noche Atacama",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 81,
+    "difficulty": 7,
+    "alcohol": 87
+  },
+  "vino_fuego_patagonia": {
+    "name": "Vino Fuego Patagonia",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 42,
+    "difficulty": 6,
+    "alcohol": 79
+  },
+  "aguardiente_misterio_cordillera": {
+    "name": "Aguardiente Misterio Cordillera",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 1,
+    "wood": "Roble Oscuro",
+    "age": 5,
+    "difficulty": 1,
+    "alcohol": 18
+  },
+  "destilado_corazon_desierto": {
+    "name": "Destilado Corazon Desierto",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 2,
+    "wood": "Pícea",
+    "age": 3,
+    "difficulty": 2,
+    "alcohol": 30
+  },
+  "licor_sombra_andes_chileno": {
+    "name": "Licor Sombra Andes Chileno",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 32,
+    "difficulty": 5,
+    "alcohol": 60
+  },
+  "bebida_espiritu_atacama": {
+    "name": "Bebida Espiritu Atacama",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 7,
+    "wood": "Acacia",
+    "age": 63,
+    "difficulty": 10,
+    "alcohol": 90
+  },
+  "pisco_secreto_chile": {
+    "name": "Pisco Secreto Chile",
+    "ingredients": [],
+    "cookingtime": 13,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 14,
+    "difficulty": 3,
+    "alcohol": 45
+  },
+  "vino_poder_patagonia": {
+    "name": "Vino Poder Patagonia",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 2,
+    "wood": "Jungla",
+    "age": 3,
+    "difficulty": 1,
+    "alcohol": 14
+  },
+  "aguardiente_magia_cordillera": {
+    "name": "Aguardiente Magia Cordillera",
+    "ingredients": [],
+    "cookingtime": 12,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 8,
+    "difficulty": 3,
+    "alcohol": 43
+  },
+  "destilado_alma_desierto": {
+    "name": "Destilado Alma Desierto",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 7,
+    "wood": "Acacia",
+    "age": 60,
+    "difficulty": 8,
+    "alcohol": 87
+  },
+  "licor_noche_andes_chileno": {
+    "name": "Licor Noche Andes Chileno",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 8,
+    "wood": "Acacia",
+    "age": 65,
+    "difficulty": 9,
+    "alcohol": 90
+  },
+  "bebida_fuego_atacama": {
+    "name": "Bebida Fuego Atacama",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 9,
+    "wood": "Jungla",
+    "age": 75,
+    "difficulty": 10,
+    "alcohol": 94
+  },
+  "pisco_misterio_atacama": {
+    "name": "Pisco Misterio Atacama",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 72,
+    "difficulty": 8,
+    "alcohol": 97
+  },
+  "vino_corazon_patagonia": {
+    "name": "Vino Corazon Patagonia",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 83,
+    "difficulty": 9,
+    "alcohol": 99
+  },
+  "aguardiente_fuego_cordillera": {
+    "name": "Aguardiente Fuego Cordillera",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 61,
+    "difficulty": 9,
+    "alcohol": 94
+  },
+  "destilado_sombra_desierto": {
+    "name": "Destilado Sombra Desierto",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 69,
+    "difficulty": 8,
+    "alcohol": 92
+  },
+  "licor_magia_andes_chileno": {
+    "name": "Licor Magia Andes Chileno",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 84,
+    "difficulty": 9,
+    "alcohol": 87
+  },
+  "bebida_poder_atacama": {
+    "name": "Bebida Poder Atacama",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 7,
+    "difficulty": 1,
+    "alcohol": 30
+  },
+  "pisco_fuego_chile": {
+    "name": "Pisco Fuego Chile",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 1,
+    "wood": "Cerezo",
+    "age": 7,
+    "difficulty": 1,
+    "alcohol": 25
+  },
+  "vino_misterio_patagonia": {
+    "name": "Vino Misterio Patagonia",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 4,
+    "wood": "Manglar",
+    "age": 42,
+    "difficulty": 5,
+    "alcohol": 69
+  },
+  "aguardiente_sombra_cordillera": {
+    "name": "Aguardiente Sombra Cordillera",
+    "ingredients": [],
+    "cookingtime": 13,
+    "distillruns": 3,
+    "wood": "Acacia",
+    "age": 23,
+    "difficulty": 3,
+    "alcohol": 48
+  },
+  "destilado_espiritu_desierto": {
+    "name": "Destilado Espiritu Desierto",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 57,
+    "difficulty": 9,
+    "alcohol": 94
+  },
+  "licor_corazon_andes_chileno": {
+    "name": "Licor Corazon Andes Chileno",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 10,
+    "wood": "Pícea",
+    "age": 79,
+    "difficulty": 9,
+    "alcohol": 89
+  },
+  "bebida_noche_atacama": {
+    "name": "Bebida Noche Atacama",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "Pícea",
+    "age": 7,
+    "difficulty": 1,
+    "alcohol": 24
+  },
+  "pisco_corazon_atacama": {
+    "name": "Pisco Corazon Atacama",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 6,
+    "wood": "Cerezo",
+    "age": 64,
+    "difficulty": 7,
+    "alcohol": 99
+  },
+  "vino_alma_patagonia": {
+    "name": "Vino Alma Patagonia",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 73,
+    "difficulty": 8,
+    "alcohol": 89
+  },
+  "aguardiente_poder_cordillera": {
+    "name": "Aguardiente Poder Cordillera",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 2,
+    "wood": "Jungla",
+    "age": 10,
+    "difficulty": 4,
+    "alcohol": 32
+  },
+  "destilado_fuego_desierto": {
+    "name": "Destilado Fuego Desierto",
+    "ingredients": [],
+    "cookingtime": 17,
+    "distillruns": 5,
+    "wood": "Pícea",
+    "age": 42,
+    "difficulty": 5,
+    "alcohol": 82
+  },
+  "licor_espiritu_andes_chileno": {
+    "name": "Licor Espiritu Andes Chileno",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 22,
+    "difficulty": 3,
+    "alcohol": 42
+  },
+  "bebida_magia_atacama": {
+    "name": "Bebida Magia Atacama",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Jungla",
+    "age": 76,
+    "difficulty": 7,
+    "alcohol": 88
+  },
+  "pisco_sombra_chile": {
+    "name": "Pisco Sombra Chile",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 94,
+    "difficulty": 9,
+    "alcohol": 93
+  },
+  "vino_noche_patagonia": {
+    "name": "Vino Noche Patagonia",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 62,
+    "difficulty": 9,
+    "alcohol": 88
+  },
+  "aguardiente_corazon_cordillera": {
+    "name": "Aguardiente Corazon Cordillera",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 59,
+    "difficulty": 10,
+    "alcohol": 95
+  },
+  "destilado_noche_desierto": {
+    "name": "Destilado Noche Desierto",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 79,
+    "difficulty": 8,
+    "alcohol": 94
+  },
+  "licor_fuego_andes_chileno": {
+    "name": "Licor Fuego Andes Chileno",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 5,
+    "wood": "Roble Oscuro",
+    "age": 25,
+    "difficulty": 5,
+    "alcohol": 72
+  },
+  "bebida_sombra_atacama": {
+    "name": "Bebida Sombra Atacama",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 17,
+    "difficulty": 3,
+    "alcohol": 45
+  },
+  "singani_espiritu_altiplano": {
+    "name": "Singani Espiritu Altiplano",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 4,
+    "wood": "Jungla",
+    "age": 15,
+    "difficulty": 3,
+    "alcohol": 30
+  },
+  "aguardiente_magia_cochabamba": {
+    "name": "Aguardiente Magia Cochabamba",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 23,
+    "difficulty": 3,
+    "alcohol": 47
+  },
+  "destilado_poder_yungas": {
+    "name": "Destilado Poder Yungas",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 68,
+    "difficulty": 8,
+    "alcohol": 85
+  },
+  "licor_alma_andina_profunda": {
+    "name": "Licor Alma Andina Profunda",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 2,
+    "wood": "Acacia",
+    "age": 8,
+    "difficulty": 2,
+    "alcohol": 11
+  },
+  "bebida_fuego_montana_sagrada": {
+    "name": "Bebida Fuego Montana Sagrada",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 10,
+    "wood": "Acacia",
+    "age": 57,
+    "difficulty": 10,
+    "alcohol": 94
+  },
+  "aguardiente_sombra_altiplano": {
+    "name": "Aguardiente Sombra Altiplano",
+    "ingredients": [],
+    "cookingtime": 12,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 18,
+    "difficulty": 3,
+    "alcohol": 50
+  },
+  "singani_noche_la_paz": {
+    "name": "Singani Noche La Paz",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 7,
+    "wood": "Abedul",
+    "age": 60,
+    "difficulty": 9,
+    "alcohol": 99
+  },
+  "aguardiente_misterio_cochabamba": {
+    "name": "Aguardiente Misterio Cochabamba",
+    "ingredients": [],
+    "cookingtime": 20,
+    "distillruns": 8,
+    "wood": "Cerezo",
+    "age": 60,
+    "difficulty": 10,
+    "alcohol": 88
+  },
+  "destilado_corazon_yungas": {
+    "name": "Destilado Corazon Yungas",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 43,
+    "difficulty": 5,
+    "alcohol": 78
+  },
+  "licor_espiritu_andina_profunda": {
+    "name": "Licor Espiritu Andina Profunda",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 9,
+    "wood": "Manglar",
+    "age": 83,
+    "difficulty": 10,
+    "alcohol": 91
+  },
+  "bebida_magia_montana_sagrada": {
+    "name": "Bebida Magia Montana Sagrada",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 76,
+    "difficulty": 9,
+    "alcohol": 97
+  },
+  "aguardiente_fuego_altiplano": {
+    "name": "Aguardiente Fuego Altiplano",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 21,
+    "difficulty": 3,
+    "alcohol": 48
+  },
+  "singani_secreto_bolivia": {
+    "name": "Singani Secreto Bolivia",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 5,
+    "wood": "Abedul",
+    "age": 27,
+    "difficulty": 6,
+    "alcohol": 75
+  },
+  "aguardiente_poder_cochabamba": {
+    "name": "Aguardiente Poder Cochabamba",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 10,
+    "wood": "Pícea",
+    "age": 77,
+    "difficulty": 10,
+    "alcohol": 89
+  },
+  "destilado_sombra_yungas": {
+    "name": "Destilado Sombra Yungas",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 9,
+    "wood": "Cerezo",
+    "age": 89,
+    "difficulty": 7,
+    "alcohol": 94
+  },
+  "licor_noche_andina_profunda": {
+    "name": "Licor Noche Andina Profunda",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 4,
+    "wood": "Jungla",
+    "age": 31,
+    "difficulty": 6,
+    "alcohol": 68
+  },
+  "bebida_sombra_montana_sagrada": {
+    "name": "Bebida Sombra Montana Sagrada",
+    "ingredients": [],
+    "cookingtime": 12,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 15,
+    "difficulty": 4,
+    "alcohol": 38
+  },
+  "aguardiente_corazon_altiplano": {
+    "name": "Aguardiente Corazon Altiplano",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 3,
+    "difficulty": 1,
+    "alcohol": 30
+  },
+  "singani_fuego_la_paz": {
+    "name": "Singani Fuego La Paz",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 4,
+    "difficulty": 1,
+    "alcohol": 13
+  },
+  "aguardiente_alma_cochabamba": {
+    "name": "Aguardiente Alma Cochabamba",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 1,
+    "wood": "Pícea",
+    "age": 8,
+    "difficulty": 2,
+    "alcohol": 18
+  },
+  "destilado_magia_yungas": {
+    "name": "Destilado Magia Yungas",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 1,
+    "wood": "Acacia",
+    "age": 6,
+    "difficulty": 2,
+    "alcohol": 21
+  },
+  "licor_fuego_andina_profunda": {
+    "name": "Licor Fuego Andina Profunda",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Cerezo",
+    "age": 8,
+    "difficulty": 2,
+    "alcohol": 29
+  },
+  "bebida_poder_montana_sagrada": {
+    "name": "Bebida Poder Montana Sagrada",
+    "ingredients": [],
+    "cookingtime": 12,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 22,
+    "difficulty": 3,
+    "alcohol": 46
+  },
+  "aguardiente_misterio_altiplano": {
+    "name": "Aguardiente Misterio Altiplano",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 2,
+    "wood": "Abedul",
+    "age": 2,
+    "difficulty": 1,
+    "alcohol": 21
+  },
+  "singani_misterio_bolivia": {
+    "name": "Singani Misterio Bolivia",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 7,
+    "wood": "Pícea",
+    "age": 68,
+    "difficulty": 8,
+    "alcohol": 97
+  },
+  "aguardiente_sombra_cochabamba": {
+    "name": "Aguardiente Sombra Cochabamba",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 8,
+    "wood": "Roble Oscuro",
+    "age": 85,
+    "difficulty": 8,
+    "alcohol": 94
+  },
+  "destilado_espiritu_yungas": {
+    "name": "Destilado Espiritu Yungas",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 6,
+    "wood": "Cerezo",
+    "age": 55,
+    "difficulty": 10,
+    "alcohol": 89
+  },
+  "licor_corazon_andina_profunda": {
+    "name": "Licor Corazon Andina Profunda",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 16,
+    "difficulty": 3,
+    "alcohol": 45
+  },
+  "bebida_noche_montana_sagrada": {
+    "name": "Bebida Noche Montana Sagrada",
+    "ingredients": [],
+    "cookingtime": 9,
+    "distillruns": 4,
+    "wood": "Manglar",
+    "age": 22,
+    "difficulty": 3,
+    "alcohol": 36
+  },
+  "aguardiente_alma_altiplano": {
+    "name": "Aguardiente Alma Altiplano",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 4,
+    "wood": "Roble Oscuro",
+    "age": 18,
+    "difficulty": 4,
+    "alcohol": 57
+  },
+  "singani_corazon_la_paz": {
+    "name": "Singani Corazon La Paz",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 10,
+    "wood": "Jungla",
+    "age": 100,
+    "difficulty": 7,
+    "alcohol": 91
+  },
+  "aguardiente_fuego_cochabamba": {
+    "name": "Aguardiente Fuego Cochabamba",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 25,
+    "difficulty": 3,
+    "alcohol": 39
+  },
+  "licor_magia_andina_profunda": {
+    "name": "Licor Magia Andina Profunda",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 6,
+    "wood": "Roble Oscuro",
+    "age": 98,
+    "difficulty": 7,
+    "alcohol": 93
+  },
+  "aguardiente_espiritu_altiplano": {
+    "name": "Aguardiente Espiritu Altiplano",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 83,
+    "difficulty": 7,
+    "alcohol": 100
+  },
+  "singani_sombra_bolivia": {
+    "name": "Singani Sombra Bolivia",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 9,
+    "wood": "Roble Oscuro",
+    "age": 87,
+    "difficulty": 7,
+    "alcohol": 96
+  },
+  "aguardiente_noche_cochabamba": {
+    "name": "Aguardiente Noche Cochabamba",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 9,
+    "wood": "Jungla",
+    "age": 89,
+    "difficulty": 8,
+    "alcohol": 98
+  },
+  "destilado_alma_yungas": {
+    "name": "Destilado Alma Yungas",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 8,
+    "wood": "Cerezo",
+    "age": 82,
+    "difficulty": 8,
+    "alcohol": 91
+  },
+  "licor_poder_andina_profunda": {
+    "name": "Licor Poder Andina Profunda",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 56,
+    "difficulty": 8,
+    "alcohol": 92
+  },
+  "bebida_corazon_montana_sagrada": {
+    "name": "Bebida Corazon Montana Sagrada",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 3,
+    "wood": "Manglar",
+    "age": 16,
+    "difficulty": 4,
+    "alcohol": 42
+  },
+  "aguardiente_volcan_quito": {
+    "name": "Aguardiente Volcan Quito",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 9,
+    "wood": "Jungla",
+    "age": 78,
+    "difficulty": 10,
+    "alcohol": 100
+  },
+  "destilado_magia_andes_ecuatoriano": {
+    "name": "Destilado Magia Andes Ecuatoriano",
+    "ingredients": [],
+    "cookingtime": 12,
+    "distillruns": 2,
+    "wood": "Roble Oscuro",
+    "age": 8,
+    "difficulty": 4,
+    "alcohol": 45
+  },
+  "bebida_poder_selva_profunda": {
+    "name": "Bebida Poder Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 10,
+    "wood": "Manglar",
+    "age": 95,
+    "difficulty": 10,
+    "alcohol": 87
+  },
+  "aguardiente_alma_montana": {
+    "name": "Aguardiente Alma Montana",
+    "ingredients": [],
+    "cookingtime": 10,
+    "distillruns": 2,
+    "wood": "Cerezo",
+    "age": 9,
+    "difficulty": 4,
+    "alcohol": 53
+  },
+  "licor_fuego_volcanico": {
+    "name": "Licor Fuego Volcanico",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Manglar",
+    "age": 7,
+    "difficulty": 1,
+    "alcohol": 14
+  },
+  "aguardiente_noche_quito": {
+    "name": "Aguardiente Noche Quito",
+    "ingredients": [],
+    "cookingtime": 24,
+    "distillruns": 8,
+    "wood": "Cerezo",
+    "age": 56,
+    "difficulty": 10,
+    "alcohol": 94
+  },
+  "destilado_corazon_andes_ecuatoriano": {
+    "name": "Destilado Corazon Andes Ecuatoriano",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 2,
+    "wood": "Abedul",
+    "age": 6,
+    "difficulty": 2,
+    "alcohol": 15
+  },
+  "bebida_sombra_selva_profunda": {
+    "name": "Bebida Sombra Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 4,
+    "wood": "Jungla",
+    "age": 25,
+    "difficulty": 4,
+    "alcohol": 35
+  },
+  "aguardiente_espiritu_montana": {
+    "name": "Aguardiente Espiritu Montana",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 8,
+    "difficulty": 1,
+    "alcohol": 29
+  },
+  "licor_sombra_volcanico": {
+    "name": "Licor Sombra Volcanico",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 0,
+    "wood": "Acacia",
+    "age": 5,
+    "difficulty": 2,
+    "alcohol": 17
+  },
+  "aguardiente_secreto_ecuador": {
+    "name": "Aguardiente Secreto Ecuador",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 6,
+    "wood": "Cerezo",
+    "age": 47,
+    "difficulty": 5,
+    "alcohol": 60
+  },
+  "destilado_sombra_andes_ecuatoriano": {
+    "name": "Destilado Sombra Andes Ecuatoriano",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 90,
+    "difficulty": 8,
+    "alcohol": 85
+  },
+  "bebida_magia_selva_profunda": {
+    "name": "Bebida Magia Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "Acacia",
+    "age": 2,
+    "difficulty": 1,
+    "alcohol": 30
+  },
+  "aguardiente_fuego_montana": {
+    "name": "Aguardiente Fuego Montana",
+    "ingredients": [],
+    "cookingtime": 18,
+    "distillruns": 10,
+    "wood": "Jungla",
+    "age": 55,
+    "difficulty": 8,
+    "alcohol": 98
+  },
+  "licor_corazon_volcanico": {
+    "name": "Licor Corazon Volcanico",
+    "ingredients": [],
+    "cookingtime": 22,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 74,
+    "difficulty": 10,
+    "alcohol": 91
+  },
+  "aguardiente_fuego_quito": {
+    "name": "Aguardiente Fuego Quito",
+    "ingredients": [],
+    "cookingtime": 25,
+    "distillruns": 6,
+    "wood": "Manglar",
+    "age": 85,
+    "difficulty": 8,
+    "alcohol": 88
+  },
+  "destilado_espiritu_andes_ecuatoriano": {
+    "name": "Destilado Espiritu Andes Ecuatoriano",
+    "ingredients": [],
+    "cookingtime": 7,
+    "distillruns": 1,
+    "wood": "Acacia",
+    "age": 4,
+    "difficulty": 1,
+    "alcohol": 19
+  },
+  "bebida_noche_selva_profunda": {
+    "name": "Bebida Noche Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 4,
+    "wood": "Acacia",
+    "age": 20,
+    "difficulty": 3,
+    "alcohol": 35
+  },
+  "aguardiente_misterio_montana": {
+    "name": "Aguardiente Misterio Montana",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 2,
+    "wood": "Manglar",
+    "age": 7,
+    "difficulty": 2,
+    "alcohol": 18
+  },
+  "aguardiente_misterio_ecuador": {
+    "name": "Aguardiente Misterio Ecuador",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 4,
+    "wood": "Cerezo",
+    "age": 14,
+    "difficulty": 3,
+    "alcohol": 48
+  },
+  "destilado_fuego_andes_ecuatoriano": {
+    "name": "Destilado Fuego Andes Ecuatoriano",
+    "ingredients": [],
+    "cookingtime": 16,
+    "distillruns": 6,
+    "wood": "Jungla",
+    "age": 49,
+    "difficulty": 5,
+    "alcohol": 84
+  },
+  "bebida_corazon_selva_profunda": {
+    "name": "Bebida Corazon Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "Cerezo",
+    "age": 7,
+    "difficulty": 2,
+    "alcohol": 14
+  },
+  "aguardiente_sombra_montana": {
+    "name": "Aguardiente Sombra Montana",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 2,
+    "wood": "Pícea",
+    "age": 8,
+    "difficulty": 1,
+    "alcohol": 15
+  },
+  "licor_magia_volcanico": {
+    "name": "Licor Magia Volcanico",
+    "ingredients": [],
+    "cookingtime": 11,
+    "distillruns": 3,
+    "wood": "Roble Oscuro",
+    "age": 25,
+    "difficulty": 4,
+    "alcohol": 37
+  },
+  "aguardiente_corazon_quito": {
+    "name": "Aguardiente Corazon Quito",
+    "ingredients": [],
+    "cookingtime": 21,
+    "distillruns": 10,
+    "wood": "Roble Oscuro",
+    "age": 99,
+    "difficulty": 10,
+    "alcohol": 93
+  },
+  "destilado_poder_andes_ecuatoriano": {
+    "name": "Destilado Poder Andes Ecuatoriano",
+    "ingredients": [],
+    "cookingtime": 14,
+    "distillruns": 2,
+    "wood": "Abedul",
+    "age": 16,
+    "difficulty": 3,
+    "alcohol": 54
+  },
+  "bebida_espiritu_selva_profunda": {
+    "name": "Bebida Espiritu Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 1,
+    "wood": "Roble Oscuro",
+    "age": 2,
+    "difficulty": 2,
+    "alcohol": 29
+  },
+  "aguardiente_poder_montana": {
+    "name": "Aguardiente Poder Montana",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 6,
+    "wood": "Cerezo",
+    "age": 99,
+    "difficulty": 9,
+    "alcohol": 85
+  },
+  "licor_espiritu_volcanico": {
+    "name": "Licor Espiritu Volcanico",
+    "ingredients": [],
+    "cookingtime": 15,
+    "distillruns": 6,
+    "wood": "Jungla",
+    "age": 35,
+    "difficulty": 6,
+    "alcohol": 84
+  },
+  "aguardiente_sombra_quito": {
+    "name": "Aguardiente Sombra Quito",
+    "ingredients": [],
+    "cookingtime": 8,
+    "distillruns": 0,
+    "wood": "Roble Oscuro",
+    "age": 2,
+    "difficulty": 1,
+    "alcohol": 25
+  },
+  "licor_noche_amazonia": {
+    "name": "Licor Noche Amazonia",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 10,
+    "wood": "Abedul",
+    "age": 70,
+    "difficulty": 9,
+    "alcohol": 95
+  },
+  "destilado_alma_andes_ecuatoriano": {
+    "name": "Destilado Alma Andes Ecuatoriano",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 4,
+    "wood": "Acacia",
+    "age": 41,
+    "difficulty": 6,
+    "alcohol": 64
+  },
+  "bebida_fuego_selva_profunda": {
+    "name": "Bebida Fuego Selva Profunda",
+    "ingredients": [],
+    "cookingtime": 23,
+    "distillruns": 6,
+    "wood": "Acacia",
+    "age": 87,
+    "difficulty": 10,
+    "alcohol": 85
+  },
+  "aguardiente_corazon_montana": {
+    "name": "Aguardiente Corazon Montana",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "Cerezo",
+    "age": 5,
+    "difficulty": 1,
+    "alcohol": 26
+  },
+  "licor_poder_volcanico": {
+    "name": "Licor Poder Volcanico",
+    "ingredients": [],
+    "cookingtime": 19,
+    "distillruns": 7,
+    "wood": "Roble Oscuro",
+    "age": 67,
+    "difficulty": 7,
+    "alcohol": 86
+  },
+  "coca_cola_clasica": {
+    "name": "Coca Cola Clasica",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "coca_cola_zero": {
+    "name": "Coca Cola Zero",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "coca_cola_cherry": {
+    "name": "Coca Cola Cherry",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "coca_cola_vainilla": {
+    "name": "Coca Cola Vainilla",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "pepsi_original": {
+    "name": "Pepsi Original",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "pepsi_blue": {
+    "name": "Pepsi Blue",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "pepsi_wild_cherry": {
+    "name": "Pepsi Wild Cherry",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "pepsi_zero": {
+    "name": "Pepsi Zero",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "fanta_naranja": {
+    "name": "Fanta Naranja",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "fanta_uva": {
+    "name": "Fanta Uva",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "fanta_limon": {
+    "name": "Fanta Limon",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "fanta_cereza": {
+    "name": "Fanta Cereza",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "fanta_manzana": {
+    "name": "Fanta Manzana",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "sprite_limon": {
+    "name": "Sprite Limon",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "sprite_menta": {
+    "name": "Sprite Menta",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "sprite_frambuesa": {
+    "name": "Sprite Frambuesa",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "seven_up_verde": {
+    "name": "Seven Up Verde",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "mountain_dew_amarillo": {
+    "name": "Mountain Dew Amarillo",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "mountain_dew_naranja": {
+    "name": "Mountain Dew Naranja",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "mountain_dew_cereza": {
+    "name": "Mountain Dew Cereza",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "red_bull_energia": {
+    "name": "Red Bull Energia",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "red_bull_tropical": {
+    "name": "Red Bull Tropical",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "red_bull_arandano": {
+    "name": "Red Bull Arandano",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "monster_energia_verde": {
+    "name": "Monster Energia Verde",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "monster_energia_roja": {
+    "name": "Monster Energia Roja",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "monster_energia_azul": {
+    "name": "Monster Energia Azul",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "monster_energia_naranja": {
+    "name": "Monster Energia Naranja",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "gatorade_naranja": {
+    "name": "Gatorade Naranja",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "gatorade_limon": {
+    "name": "Gatorade Limon",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "gatorade_cereza": {
+    "name": "Gatorade Cereza",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "gatorade_uva": {
+    "name": "Gatorade Uva",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "powerade_rojo": {
+    "name": "Powerade Rojo",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "powerade_azul": {
+    "name": "Powerade Azul",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "powerade_naranja": {
+    "name": "Powerade Naranja",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "powerade_verde": {
+    "name": "Powerade Verde",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "tropicana_naranja": {
+    "name": "Tropicana Naranja",
+    "ingredients": [],
+    "cookingtime": 6,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "minute_maid_limon": {
+    "name": "Minute Maid Limon",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "7up_natural": {
+    "name": "7UP Natural",
+    "ingredients": [],
+    "cookingtime": 2,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "mountain_dew_energia": {
+    "name": "Mountain Dew Energía",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 1,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "gatorade_tropical": {
+    "name": "Gatorade Tropical",
+    "ingredients": [],
+    "cookingtime": 2,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "monster_energy": {
+    "name": "Monster Energy",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 2,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "aquafina_pura": {
+    "name": "Aquafina Pura",
+    "ingredients": [],
+    "cookingtime": 1,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "dasani_cristalina": {
+    "name": "Dasani Cristalina",
+    "ingredients": [],
+    "cookingtime": 1,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "nestle_jugo_tropical": {
+    "name": "Nestlé Jugo Tropical",
+    "ingredients": [],
+    "cookingtime": 2,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "minute_maid_manzana": {
+    "name": "Minute Maid Manzana",
+    "ingredients": [],
+    "cookingtime": 2,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "lipton_te_helado": {
+    "name": "Lipton Té Helado",
+    "ingredients": [],
+    "cookingtime": 2,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "starbucks_cafe_frio": {
+    "name": "Starbucks Café Frío",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 1,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "nescafe_clasico": {
+    "name": "Nescafé Clásico",
+    "ingredients": [],
+    "cookingtime": 2,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "heineken_cero": {
+    "name": "Heineken 0.0",
+    "ingredients": [],
+    "cookingtime": 2,
+    "distillruns": 0,
+    "wood": "",
+    "age": 0,
+    "difficulty": 1,
+    "alcohol": 0
+  },
+  "guinness_cero": {
+    "name": "Guinness 0 Alcohol",
+    "ingredients": [],
+    "cookingtime": 4,
+    "distillruns": 2,
+    "wood": "",
+    "age": 0,
+    "difficulty": 3,
+    "alcohol": 0
+  },
+  "kombucha_probiotica": {
+    "name": "Kombucha Probiótica",
+    "ingredients": [],
+    "cookingtime": 3,
+    "distillruns": 1,
+    "wood": "",
+    "age": 0,
+    "difficulty": 2,
+    "alcohol": 0
+  },
+  "matcha_ceremonial": {
+    "name": "Matcha Ceremonial",
+    "ingredients": [],
+    "cookingtime": 5,
+    "distillruns": 3,
+    "wood": "",
+    "age": 0,
+    "difficulty": 4,
+    "alcohol": 0
+  }
+}
